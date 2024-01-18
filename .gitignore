@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+/workspaces/Logistic_Regression_Project_Tutorial/data/processed/clean_test.csv
+/workspaces/Logistic_Regression_Project_Tutorial/data/processed/clean_train.csv
+/workspaces/Logistic_Regression_Project_Tutorial/data/raw/bank_data.csv
+models/logistic_regression_C-0.1_penalty-l2_solver-liblinear_42.sav
